@@ -1,4 +1,4 @@
-# SamplingCoordination
+# SamplingCoordination <img src="Samplingcoordinationlogo.png" align="right" height="139" alt="Samplingcoordination logo" />
 
 `SamplingCoordination` is an R package that provides tools for the coordination and management of samples in complex rotative survey designs. It is aimed at statisticians and survey methodologists working on household surveys, labor force surveys, and other social surveys that require controlled sample renewal across time periods.
 
